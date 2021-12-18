@@ -5,5 +5,5 @@
 
 # Doge Bot
 - [Top.gg](https://top.gg/bot/741412043411816488)
-- [Invite](https://discord.com/api/oauth2/authorize?client_id=741412043411816488&permissions=805629046&scope=bot)
+- [Invite](https://top.gg/bot/741412043411816488/invite)
 - [Vote](https://top.gg/bot/741412043411816488/vote)
